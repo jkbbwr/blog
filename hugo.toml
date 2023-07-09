@@ -4,7 +4,7 @@ title = 'Kibb has a blog'
 theme = "poison"
 
 [params]
-brand = "poison"
+brand = "Kibb's deranged ranting."
 dark_mode = true
 description = "I have a blog now."
 menu = [
